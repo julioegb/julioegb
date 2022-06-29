@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @julioegb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @julioegb, a guatemalan Computer Science Engineer.
 
-<!---
-julioegb/julioegb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I have always liked engineering, technology and I am passionate about solving challenges. I am currently very interested in everything related to automation, DevOps, Infrastructure as Code and Cloud. My wish is that my work contributes to creating a better future and the well-being of people.
+
+- 🌱 I’m currently finishing my M2 program in Computer Science for Networks at Institut Polytechnique de Paris / Télécom SudParis, France; and studying to get Kubernetes Administrator (CKA) certification.
+
+- 📫 If you want to contact me send me a message to my LinkedIn profile: www.linkedin.com/in/julioegb.
